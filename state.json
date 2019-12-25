@@ -1,0 +1,217 @@
+[{
+        "id": 1,
+        "state": "Abia",
+        "capital": "Umuahia",
+        "nickname": "God's own state"
+    },
+    {
+        "id": 2,
+        "state": "Adamawa",
+        "capital": "Yola",
+        "nickname": "Land of beauty"
+    },
+    {
+        "id": 3,
+        "state": "Akwa Ibom",
+        "capital": "Uyo",
+        "nickname": "Land of promise"
+    },
+    {
+        "id": 4,
+        "state": "Anambra",
+        "capital": "Awka",
+        "nickname": "Light of Nation"
+    },
+    {
+        "id": 5,
+        "state": "Bauchi",
+        "capital": "Bauchi",
+        "nickname": "Pearl of tourism"
+    },
+    {
+        "id": 6,
+        "state": "Bayelsa",
+        "capital": "Yenagoa",
+        "nickname": "Glory of all land"
+    },
+    {
+        "id": 7,
+        "state": "Benue",
+        "capital": "Markurdi",
+        "nickname": "Food basket of the nation"
+    },
+    {
+        "id": 8,
+        "state": "Borno",
+        "capital": "Maiduguri",
+        "nickname": "Home of peace"
+    },
+    {
+        "id": 9,
+        "state": "Cross River",
+        "capital": "Calabar",
+        "nickname": "The people's paradise"
+    },
+    {
+        "id": 10,
+        "state": "Delta",
+        "capital": "Asaba",
+        "nickname": "The big heart"
+    },
+    {
+        "id": 11,
+        "state": "Ebonyi",
+        "capital": "Abakaliki",
+        "nickname": "Salt of the nation"
+    },
+    {
+        "id": 12,
+        "state": "Edo",
+        "capital": "Benin City",
+        "nickname": "Heartbeat of the nation"
+    },
+    {
+        "id": 13,
+        "state": "Enugu",
+        "capital": "Enugu",
+        "nickname": "Coal city state"
+    },
+    {
+        "id": 14,
+        "state": "Federal Capital Territory",
+        "capital": "Abuja",
+        "nickname": "Centre of unity"
+    },
+    {
+        "id": 15,
+        "state": "Gombe",
+        "capital": "Gombe",
+        "nickname": "Jewel of the savannah"
+    },
+    {
+        "id": 16,
+        "state": "Imo",
+        "capital": "Owerri",
+        "nickname": "Eastern heartland"
+    },
+    {
+        "id": 17,
+        "state": "Jigawa",
+        "capital": "Dutse",
+        "nickname": "The new world"
+    },
+    {
+        "id": 18,
+        "state": "Kaduna",
+        "capital": "Kaduna",
+        "nickname": "Centre of learning"
+    },
+    {
+        "id": 19,
+        "state": "Kano",
+        "capital": "Kano",
+        "nickname": "Centre of commerce"
+    },
+    {
+        "id": 20,
+        "state": "Katsina",
+        "capital": "Katsina",
+        "nickname": "Home of hospitality"
+    },
+    {
+        "id": 21,
+        "state": "Kebbi",
+        "capital": "Birnin Kebbi",
+        "nickname": "Land of equity"
+    },
+    {
+        "id": 22,
+        "state": "Kogi",
+        "capital": "Lokoja",
+        "nickname": "The confluence state"
+    },
+    {
+        "id": 23,
+        "state": "Kwara",
+        "capital": "Ilorin",
+        "nickname": "State of Harmony"
+    },
+    {
+        "id": 24,
+        "state": "Lagos",
+        "capital": "Ikeja",
+        "nickname": "Centre of excellence"
+    },
+    {
+        "id": 25,
+        "state": "Nasarawa",
+        "capital": "Lafia",
+        "nickname": "Home of solid minerals"
+    },
+    {
+        "id": 26,
+        "state": "Niger",
+        "capital": "Minna",
+        "nickname": "The power state"
+    },
+    {
+        "id": 27,
+        "state": "Ogun",
+        "capital": "Abeokuta",
+        "nickname": "Gateway state"
+    },
+    {
+        "id": 28,
+        "state": "Ondo",
+        "capital": "Akure",
+        "nickname": "Sunshine state"
+    },
+    {
+        "id": 29,
+        "state": "Osun",
+        "capital": "Oshogbo",
+        "nickname": "Land of virtue"
+    },
+    {
+        "id": 21,
+        "state": "Oyo",
+        "capital": "Ibadan",
+        "nickname": "Pace setter state"
+    },
+    {
+        "id": 31,
+        "state": "Plateau",
+        "capital": "Jos",
+        "nickname": "Home of peace and tourism"
+    },
+    {
+        "id": 32,
+        "state": "River",
+        "capital": "Porthacourt",
+        "nickname": "Treasure base of the nation"
+    },
+    {
+        "id": 33,
+        "state": "Sokoto",
+        "capital": "Sokoto",
+        "nickname": "Seat of the capliphate"
+    },
+    {
+        "id": 34,
+        "state": "Taraba",
+        "capital": "Jalingo",
+        "nickname": "Nature's gift to the nation"
+    },
+    {
+        "id": 35,
+        "state": "Yobe",
+        "capital": "Damaturu",
+        "nickname": "Pride of the sahel"
+    },
+    {
+        "id": 36,
+        "state": "Zamfara",
+        "capital": "Umuahia",
+        "nickname": "Farmimg is our pride"
+    }
+]
